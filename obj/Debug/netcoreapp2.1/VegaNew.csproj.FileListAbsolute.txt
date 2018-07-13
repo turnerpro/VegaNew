@@ -21,3 +21,4 @@ E:\Websites\VegaNew\obj\Debug\netcoreapp2.1\VegaNew.Views.pdb
 E:\Websites\VegaNew\obj\Debug\netcoreapp2.1\VegaNew.dll
 E:\Websites\VegaNew\obj\Debug\netcoreapp2.1\VegaNew.pdb
 E:\Websites\VegaNew\obj\Debug\netcoreapp2.1\VegaNew.csproj.CopyComplete
+E:\Websites\VegaNew\obj\Debug\netcoreapp2.1\VegaNew.csprojAssemblyReference.cache
