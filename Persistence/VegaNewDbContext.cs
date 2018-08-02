@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using VegaNew.Core.Models;
 using VegaNew.Models;
 
 namespace VegaNew.Persistence
@@ -12,6 +13,8 @@ namespace VegaNew.Persistence
         public DbSet<Model> Models { get; set; } 
 
         public DbSet<Feature> Features { get; set; }
+
+        public DbSet<Photo> Photos { get; set; }
 
         public VegaNewDbContext(DbContextOptions<VegaNewDbContext> options)
             : base(options)
